@@ -1,0 +1,10 @@
+{
+  "name": "dtbj/customtheme",
+  "description": "Claim Vendor Name on Packagist",
+  "type": "talentbrick",
+  "extra": {
+    "talentbrick": {
+      "title": "Claim Vendor Name"
+    }
+  }
+}
